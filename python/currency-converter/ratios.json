@@ -1,0 +1,38 @@
+[
+    {
+        "base_currency": "PLN",
+        "target_currency": "EUR",
+        "date_fetched": "2019-09-27",
+        "ratio": 0.2279721874
+    },
+    {
+        "base_currency": "PLN",
+        "target_currency": "USD",
+        "date_fetched": "2019-09-27",
+        "ratio": 0.2492875869
+    },
+    {
+        "base_currency": "USD",
+        "target_currency": "EUR",
+        "date_fetched": "2021-11-06",
+        "ratio": 0.8656037629526784
+    },
+    {
+        "base_currency": "COP",
+        "target_currency": "SAR",
+        "date_fetched": "2021-11-06",
+        "ratio": 0.0009686178113981397
+    },
+    {
+        "base_currency": "PLN",
+        "target_currency": "AUD",
+        "date_fetched": "2021-11-06",
+        "ratio": 0.3370426033291976
+    },
+    {
+        "base_currency": "AUD",
+        "target_currency": "EUR",
+        "date_fetched": "2021-11-06",
+        "ratio": 0.6460557649494073
+    }
+]
